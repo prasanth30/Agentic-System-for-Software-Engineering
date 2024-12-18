@@ -4,8 +4,6 @@
 
 - **fine_tuned_models.txt**: contains the link for the T5 models we fine-tuned for context filterer tool and complexity evaluator tool.
 
-- **mid_eval_submission**: codebase till mid-eval and our initial approach.
-
 - **53_h3_pathway_endterm.pdf**: our end-term report.
 
 - **Team_53_Summary_video.mp4**: Summarizes Me-QT5 and complete workflow of it.
