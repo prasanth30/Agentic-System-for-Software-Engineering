@@ -11,3 +11,12 @@
 - **Me_QT5**: Our final pipeline.
 
 - **working_demo.mp4**: Working demo of our ui applicaition.
+
+# Contributors:
+- Karaka Prasanth Naidu
+- Samyak Jha
+- Manav Jain
+- Harshvardhan Saini
+- Ashaz Khan
+- Sagnik Pal
+- Shresth Sharma
