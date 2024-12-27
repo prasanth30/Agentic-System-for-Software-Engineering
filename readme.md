@@ -16,6 +16,7 @@
 - Karaka Prasanth Naidu
 - Samyak Jha
 - Manav Jain
+- Tanmay Singhal
 - Harshvardhan Saini
 - Ashaz Khan
 - Sagnik Pal
